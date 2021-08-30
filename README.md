@@ -1,4 +1,4 @@
-# flutter_application_2
+# zeely
 
 A new Flutter project.
 
